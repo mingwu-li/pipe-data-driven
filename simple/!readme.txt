@@ -1,0 +1,3 @@
+- pre_buckling: dynamics of the simply-supported pipe in pre-buckling regime
+- post_buckling: dynamics of the ... in post-buckling regime (near one of the stable buckled configuration)
+- transit_orb: dynamics of the ... in post-buckling regime with ROM captures the coexistence of three static configurations
