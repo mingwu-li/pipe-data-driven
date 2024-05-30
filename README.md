@@ -7,7 +7,7 @@ You are supposed to install SSMLearn [2] first and add misc folder to MATLAB pat
 
 In case you have any questions, you are welcome to reach me at limw@sustech.edu.cn
 
-[1] Mingwu Li, Hao Yan, Lin Wang. Data-driven model reduction for pipes conveying fluid via spectral submanifolds. submitted to International Journal of Mechanical Sciences. Under Review.
+[1] Mingwu Li, Hao Yan, Lin Wang. Data-driven model reduction for pipes conveying fluid via spectral submanifolds. International Journal of Mechanical Sciences. https://doi.org/10.1016/j.ijmecsci.2024.109414
 
 [2] Mattia Cenedese, Joar Axås, George Haller https://github.com/haller-group/SSMLearn
 
